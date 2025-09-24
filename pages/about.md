@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/image.html objectid="demo_001" width="75" %}
+{% include feature/image.html objectid="watkins37" width="75" %}
 
 ## About CollectionBuilder-Sheets
 
